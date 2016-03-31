@@ -1,5 +1,5 @@
 {
-    "name": "Leaflet.Elevation",
+    "name": "leaflet.elevation.4",
     "version": "0.0.4",
     "homepage": "http://mrmufflon.github.io/Leaflet.Elevation/",
     "authors": [
@@ -32,6 +32,6 @@
         "lib"
     ],
     "dependencies": {
-        "leaflet-dist": "0.7.x"
+        "leaflet": "0.7.7"
     }
 }
